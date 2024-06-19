@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+.back_color{
+  background-color: #b5d9ff;
+  height: 100%;
+  margin: 0;
+  padding: 50;
+}
+.font_style{
+  font-family: "Anonymous Pro", monospace;
+  text-align: center;
+  color: #333333;
+}
